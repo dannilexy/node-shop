@@ -1,0 +1,6 @@
+{
+    "env":{
+        "MongoPassword": "Danny@04",
+        "ATLAS_URI" : "mongodb+srv://dannilexy:root@cluster0.xjzlv2s.mongodb.net/?retryWrites=true&w=majority"
+    }
+}
